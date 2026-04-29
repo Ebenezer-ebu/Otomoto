@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Model files
+*.h5
+*.keras
+best_cancer_model.h5
+
+# Data files
+*.csv
+*.data
