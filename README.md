@@ -212,7 +212,7 @@ Generated files:
 - Kingma & Ba — Adam Optimization Algorithm
 - TensorFlow Documentation
 
-👤 Author
+## 👤 Author
 Ebenezer Ifezulike (Eben)
 Frontend & Full Stack Developer | Machine Learning Enthusiast
 
