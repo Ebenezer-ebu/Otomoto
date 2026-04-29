@@ -151,7 +151,7 @@ Output Layer (1 neuron, Sigmoid)
 
 ```
 git clone git@github.com:Ebenezer-ebu/Otomoto.git
-cd otomoto
+cd Otomoto
 ```
 ### 2. Create a Virtual Environment
 ```
